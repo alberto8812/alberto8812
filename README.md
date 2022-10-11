@@ -23,6 +23,10 @@ With me you will get, in addition to good technical skills, a developer with gre
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 
+### Github Stats
+
+[![Carlos A. velasco GitHub Stats](https://github-readme-stats.vercel.app/api?username=alberto8812&show_icons=true&count_private=true)](https://github.com/alberto8812/alberto8812)
+
 
 
 
