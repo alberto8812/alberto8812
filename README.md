@@ -1,6 +1,5 @@
 
-![¡Por fin tengo nueva casa!](https://user-images.githubusercontent.com/101751073/194986225-4958381f-cceb-4274-b43a-fb374305ca9c.gif)
-
+![¡Por fin tengo nueva casa!](https://user-images.githubusercontent.com/101751073/194987391-f819ad47-2146-41dd-af05-3f5ad21a6818.gif)
 
 
 
