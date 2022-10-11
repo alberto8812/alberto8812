@@ -30,7 +30,7 @@ With me you will get, in addition to good technical skills, a developer with gre
 
 <br>
 
-  <a href="www.linkedin.com/in/carlos-alberto-velasco-saavedra-959676190">
+  <a href="https://www.linkedin.com/in/carlos-alberto-velasco-saavedra-959676190/">
     <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:hrishipotter123@gmail.com">
