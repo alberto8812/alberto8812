@@ -17,7 +17,8 @@ With me you will get, in addition to good technical skills, a developer with gre
 ![sequelize](https://img.shields.io/badge/-sequelize-000000?style=flat&logo=sequelize)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![express](https://img.shields.io/badge/-express-000000?style=flat&logo=express)<br />
+![express](https://img.shields.io/badge/-express-000000?style=flat&logo=express)
+![React](https://img.shields.io/badge/-react-000000?style=flat&logo=react)<br />
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
