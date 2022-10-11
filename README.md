@@ -28,5 +28,14 @@ With me you will get, in addition to good technical skills, a developer with gre
 [![Carlos velasco GitHub Stats](https://github-readme-stats.vercel.app/api?username=alberto8812&show_icons=true&count_private=true)](https://github.com/alberto8812/alberto8812)
 
 
+<br>
 
+  <a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
+    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:hrishipotter123@gmail.com">
+    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+  
+<br>
 
