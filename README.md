@@ -2,20 +2,25 @@
 ![¡Por fin tengo nueva casa!](https://user-images.githubusercontent.com/101751073/194987391-f819ad47-2146-41dd-af05-3f5ad21a6818.gif)
 
 
+<br>
+Welcome to my GitHub !<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+a Electronic Technologist  who's transitioning into Software Engineering. Through self-study and enrolling in a  Bootcamp , I am building a solid foundation in both frontend and backend technologies and languages.
 
 
-<!--
-### Hi there 👋
-**alberto8812/alberto8812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
+![sequelize](https://img.shields.io/badge/-sequelize-000000?style=flat&logo=sequelize)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![express](https://img.shields.io/badge/-express-000000?style=flat&logo=express)<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+
+
+
+
