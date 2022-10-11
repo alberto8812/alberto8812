@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Blue_Modern_Isolated_Line_Technology_Logo-removebg-preview](https://user-images.githubusercontent.com/101751073/194982982-aa21fccb-53c9-408e-af71-beecc83b9251.png)
 
 <!--
 **alberto8812/alberto8812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
