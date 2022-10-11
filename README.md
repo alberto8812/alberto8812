@@ -1,7 +1,8 @@
 
+![¡Por fin tengo nueva casa!](https://user-images.githubusercontent.com/101751073/194986225-4958381f-cceb-4274-b43a-fb374305ca9c.gif)
 
 
-https://user-images.githubusercontent.com/101751073/194985659-ffe54d69-21a8-4c53-99cd-2d800e5847f1.mp4
+
 
 
 <!--
