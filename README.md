@@ -1,4 +1,5 @@
-![Blue_Modern_Isolated_Line_Technology_Logo-removebg-preview](https://user-images.githubusercontent.com/101751073/194982982-aa21fccb-53c9-408e-af71-beecc83b9251.png)
+
+![Blue_Modern_Isolated_Line_Technology_Logo-removebg-preview (2)](https://user-images.githubusercontent.com/101751073/194983580-58506cdd-d0cc-4413-9a7b-95c0d474c580.png)
 
 <!--
 ### Hi there 👋
