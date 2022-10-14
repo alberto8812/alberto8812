@@ -8,9 +8,9 @@ A Electronic Technologist  who's transitioning into Software Engineering. Throug
 With me you will get, in addition to good technical skills, a developer with great leadership skills, teamwork, problem solving and eager to help and learn from others. So that I can strengthen and expand my knowledge.
 
 
-## 🛠️ Mis herramientas favoritas
+## 🛠️My favorite tools
 
-### 👨‍💻 Lenguajes de Programación
+### 👨‍💻 Programming languages
 
 <p>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -20,7 +20,7 @@ With me you will get, in addition to good technical skills, a developer with gre
   
 </p>
 
-### 🧰 Frameworks y Librerias
+### 🧰 Frameworks y library
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -29,14 +29,14 @@ With me you will get, in addition to good technical skills, a developer with gre
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 </p>
 
-### 🗄️ Bases de datos y almacenamiento en la nube
+### 🗄️Databases
 
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-### 💻 Software y herramientas
+### 💻 Software y tools
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
