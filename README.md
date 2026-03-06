@@ -18,7 +18,6 @@ With me you will get, in addition to good technical skills, a developer with gre
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="typescript" src="https://img.shields.io/badge/typescript-1572B6.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/NestJs-43853D.svg?logo=NestJs&logoColor=white"></a>
   
 </p>
 
@@ -30,6 +29,7 @@ With me you will get, in addition to good technical skills, a developer with gre
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/NestJs-43853D.svg?logo=NestJs&logoColor=red"></a>
 </p>
 
 ### 🗄️Databases
@@ -37,8 +37,8 @@ With me you will get, in addition to good technical skills, a developer with gre
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="Mongo" src="https://custom-icon-badges.herokuapp.com/badge/Mongo-025E8C.svg?logo=Mongo&logoColor=white"></a>
-    <a href="#"><img alt="Redis" src="https://custom-icon-badges.herokuapp.com/badge/Redis-025E8C.svg?logo=Redis&logoColor=white"></a>
+    <a href="#"><img alt="Mongo" src="https://custom-icon-badges.herokuapp.com/badge/Mongo-025E8C.svg?logo=Mongo&logoColor=green"></a>
+    <a href="#"><img alt="Redis" src="https://custom-icon-badges.herokuapp.com/badge/Redis-025E8C.svg?logo=Redis&logoColor=red"></a>
 </p>
 
 ### 💻 Software y tools
