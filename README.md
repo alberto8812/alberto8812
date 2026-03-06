@@ -51,7 +51,7 @@ With me you will get, in addition to good technical skills, a developer with gre
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0078d7.svg?logo=Kubernetes&logoColor=white"></a>
     <a href="#"><img alt="claude" src="https://img.shields.io/badge/claude-FF6C37.svg?logo=claude&logoColor=white"></a>
     <a href="#"><img alt="n8n" src="https://img.shields.io/badge/n8n-FF6C37.svg?logo=n8n&logoColor=white"></a>
-    <a href="#"><img alt="linux" src="https://img.shields.io/badge/linux-F05033.svg?logo=linux&logoColor=white"></a>
+    <a href="#"><img alt="linux" src="https://img.shields.io/badge/linux-20232a.svg?logo=linux&logoColor=white"></a>
 </p>
 
 
