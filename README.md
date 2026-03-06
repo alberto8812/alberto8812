@@ -18,6 +18,7 @@ With me you will get, in addition to good technical skills, a developer with gre
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="typescript" src="https://img.shields.io/badge/typescript-1572B6.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/NestJs-43853D.svg?logo=NestJs&logoColor=white"></a>
   
 </p>
 
