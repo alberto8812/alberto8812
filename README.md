@@ -54,10 +54,6 @@ With me you will get, in addition to good technical skills, a developer with gre
     <a href="#"><img alt="linux" src="https://img.shields.io/badge/linux-0078d7.svg?logo=linux&logoColor=white"></a>
 </p>
 
-### Github Stats
-
-[![Carlos velasco GitHub Stats](https://github-readme-stats.vercel.app/api?username=alberto8812&show_icons=true&count_private=true)](https://github.com/alberto8812/alberto8812)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto8812&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/alberto8812)
 
 <br>
 
