@@ -36,6 +36,7 @@ With me you will get, in addition to good technical skills, a developer with gre
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="#"><img alt="mongo" src="https://custom-icon-badges.herokuapp.com/badge/Mongo-025E8C.svg?logo=Mongo&logoColor=white"></a>
 </p>
 
 ### 💻 Software y tools
