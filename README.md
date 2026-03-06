@@ -29,7 +29,7 @@ With me you will get, in addition to good technical skills, a developer with gre
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/NestJs-43853D.svg?logo=NestJs&logoColor=red"></a>
+    <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/NestJs-20232a.svg?logo=NestJs&logoColor=red"></a>
 </p>
 
 ### 🗄️Databases
@@ -38,7 +38,7 @@ With me you will get, in addition to good technical skills, a developer with gre
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="Mongo" src="https://custom-icon-badges.herokuapp.com/badge/Mongo-025E8C.svg?logo=Mongo&logoColor=green"></a>
-    <a href="#"><img alt="Redis" src="https://custom-icon-badges.herokuapp.com/badge/Redis-20232.svg?logo=Redis&logoColor=red"></a>
+    <a href="#"><img alt="Redis" src="https://custom-icon-badges.herokuapp.com/badge/Redis-20232a.svg?logo=Redis&logoColor=red"></a>
 </p>
 
 ### 💻 Software y tools
