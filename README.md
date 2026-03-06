@@ -49,9 +49,9 @@ With me you will get, in addition to good technical skills, a developer with gre
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-0078d7.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0078d7.svg?logo=Kubernetes&logoColor=white"></a>
-    <a href="#"><img alt="claude" src="https://img.shields.io/badge/claude-0078d7.svg?logo=claude&logoColor=white"></a>
-    <a href="#"><img alt="n8n" src="https://img.shields.io/badge/n8n-0078d7.svg?logo=n8n&logoColor=white"></a>
-    <a href="#"><img alt="linux" src="https://img.shields.io/badge/linux-0078d7.svg?logo=linux&logoColor=white"></a>
+    <a href="#"><img alt="claude" src="https://img.shields.io/badge/claude-FF6C37.svg?logo=claude&logoColor=white"></a>
+    <a href="#"><img alt="n8n" src="https://img.shields.io/badge/n8n-FF6C37.svg?logo=n8n&logoColor=white"></a>
+    <a href="#"><img alt="linux" src="https://img.shields.io/badge/linux-F05033.svg?logo=linux&logoColor=white"></a>
 </p>
 
 
