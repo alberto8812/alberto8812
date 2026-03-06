@@ -4,9 +4,7 @@
 
 <br>
 Welcome to my GitHub !<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-A Electronic Technologist  who's transitioning into Software Engineering. Through self-study and enrolling in a  Bootcamp , I am building a solid foundation in both frontend and backend technologies and languages.
-With me you will get, in addition to good technical skills, a developer with great leadership skills, teamwork, problem solving and eager to help and learn from others. So that I can strengthen and expand my knowledge.
-
+An Electronics Technologist turned Software Engineer. Through dedicated self-study and intensive bootcamp training, I've built a solid foundation in frontend and backend development. Beyond technical proficiency, I bring strong leadership, teamwork, and problem-solving skills to the table. I am a highly collaborative developer, always eager to share knowledge, help others, and continuously expand my own skill set.
 
 ## 🛠️My favorite tools
 
