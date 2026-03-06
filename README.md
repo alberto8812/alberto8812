@@ -36,7 +36,8 @@ With me you will get, in addition to good technical skills, a developer with gre
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="#"><img alt="mongo" src="https://custom-icon-badges.herokuapp.com/badge/Mongo-025E8C.svg?logo=Mongo&logoColor=white"></a>
+    <a href="#"><img alt="Mongo" src="https://custom-icon-badges.herokuapp.com/badge/Mongo-025E8C.svg?logo=Mongo&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://custom-icon-badges.herokuapp.com/badge/Redis-025E8C.svg?logo=Redis&logoColor=white"></a>
 </p>
 
 ### 💻 Software y tools
@@ -46,6 +47,10 @@ With me you will get, in addition to good technical skills, a developer with gre
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-0078d7.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0078d7.svg?logo=Kubernetes&logoColor=white"></a>
+    <a href="#"><img alt="claude" src="https://img.shields.io/badge/claude-0078d7.svg?logo=claude&logoColor=white"></a>
+    <a href="#"><img alt="n8n" src="https://img.shields.io/badge/n8n-0078d7.svg?logo=n8n&logoColor=white"></a>
+    <a href="#"><img alt="linux" src="https://img.shields.io/badge/linux-0078d7.svg?logo=linux&logoColor=white"></a>
 </p>
 
 ### Github Stats
